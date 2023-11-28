@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608332715311",
+    "project_id": "mahasiswa-2093a",
+    "storage_bucket": "mahasiswa-2093a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608332715311:android:a5cd898575b6c9ed24bdda",
+        "android_client_info": {
+          "package_name": "com.example.mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6crJQbSTpy1_T0sJxQE1J1wVxjzqE9PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608332715311:android:c252b9fe2d6c579024bdda",
+        "android_client_info": {
+          "package_name": "com.example.senddatamahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6crJQbSTpy1_T0sJxQE1J1wVxjzqE9PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
